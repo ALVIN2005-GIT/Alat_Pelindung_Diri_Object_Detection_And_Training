@@ -1,11 +1,11 @@
-# Installation
+# Installation From Me | Alvin
 
 ``` shell
 # Make yolov7 folder run this command
 mkdir yolov7
 
 # And then clone this repository run this command
-git clone 
+git clone https://github.com/ALVIN2005-GIT/Alat_Pelindung_Diri_Object_Detection_And_Training
 
 
 ```
